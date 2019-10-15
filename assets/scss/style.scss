@@ -1,0 +1,45 @@
+//variables
+
+$colorWhite: #fff;
+$colorRed: #ff6342;
+$colorRedHover: #ff231c;
+
+
+//##############################################################################################################################
+
+//begin header styles
+
+.header{
+  background: url(../img/background.svg) no-repeat;
+  background-size: cover;
+  .my{
+    padding: 100px 15px 0;
+    margin: 0 auto;
+    max-width: 900px;
+    &-title{
+      font-size: 42px;
+      font-weight: 500;
+      color: $colorWhite;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    &-description{
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 1.4em;
+      color: $colorWhite;
+      text-align: center;
+      a{
+        color: $colorRed;
+        transition: .3s;
+      }
+      a:hover{
+        color: $colorRedHover;
+        transition: .3s;
+      }
+    }
+  }
+  .head-image{
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oCAAqC;EAEjC,WAAG;IACD,SAAS,EAAE,GAAG;IACd,iBAAO;MACL,SAAS,EAAE,IAAI;MACf,aAAa,EAAE,IAAI;IAErB,uBAAa;MACX,SAAS,EAAE,IAAI;EAGnB,mBAAW;IACT,UAAU,EAAE,IAAI",
+"sources": ["../scss/style480.scss"],
+"names": [],
+"file": "style480.css"
+}

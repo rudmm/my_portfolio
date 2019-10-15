@@ -1,0 +1,10 @@
+@media screen and (max-width: 1024px) {
+  .header .my {
+    max-width: 600px; }
+    .header .my-title {
+      font-size: 30px; }
+    .header .my-description {
+      font-size: 17px;
+      line-height: 1.2em; } }
+
+/*# sourceMappingURL=style1024.css.map */

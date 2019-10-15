@@ -1,0 +1,29 @@
+.header {
+  background: url(../img/background.svg) no-repeat;
+  background-size: cover; }
+  .header .my {
+    padding: 100px 15px 0;
+    margin: 0 auto;
+    max-width: 900px; }
+    .header .my-title {
+      font-size: 42px;
+      font-weight: 500;
+      color: #fff;
+      text-align: center;
+      margin-bottom: 20px; }
+    .header .my-description {
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 1.4em;
+      color: #fff;
+      text-align: center; }
+      .header .my-description a {
+        color: #ff6342;
+        transition: .3s; }
+      .header .my-description a:hover {
+        color: #ff231c;
+        transition: .3s; }
+  .header .head-image {
+    margin-top: 20px; }
+
+/*# sourceMappingURL=style.css.map */
