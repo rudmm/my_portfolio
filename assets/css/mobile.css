@@ -1,3 +1,10 @@
+@media screen and (max-width: 768px) {
+  .header .my {
+    padding: 20px 0 0; }
+    .header .my-title {
+      font-size: 25px; }
+    .header .my-description {
+      font-size: 16px; } }
 @media screen and (max-width: 480px) {
   .header .my {
     max-width: 90%; }
@@ -9,4 +16,4 @@
   .header .head-image {
     margin-top: 10px; } }
 
-/*# sourceMappingURL=style480.css.map */
+/*# sourceMappingURL=mobile.css.map */

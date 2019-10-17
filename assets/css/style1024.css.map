@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,qCAAqC;EAEjC,WAAG;IACD,SAAS,EAAE,KAAK;IAChB,iBAAO;MACL,SAAS,EAAE,IAAI;IAEjB,uBAAa;MACX,SAAS,EAAE,IAAI;MACf,WAAW,EAAE,KAAK",
-"sources": ["../scss/style1024.scss"],
-"names": [],
-"file": "style1024.css"
-}

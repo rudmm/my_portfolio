@@ -1,0 +1,46 @@
+@media screen and (max-width: 768px) {
+  .header{
+    .my{
+      padding: 20px 0 0;
+      &-title{
+        font-size: 25px;
+      }
+      &-description{
+        font-size: 16px;
+      }
+    }
+  }
+
+}
+
+//######################################################################################################################
+
+@media screen and (max-width: 666px) {
+
+}
+
+//######################################################################################################################
+
+@media screen and (max-width: 480px) {
+  .header{
+    .my{
+      max-width: 90%;
+      &-title{
+        font-size: 22px;
+        margin-bottom: 10px;
+      }
+      &-description{
+        font-size: 14px;
+      }
+    }
+    .head-image{
+      margin-top: 10px;
+    }
+  }
+}
+
+//######################################################################################################################
+
+@media screen and (max-width: 320px) {
+
+}

@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,oCAAqC;EAEjC,WAAG;IACD,OAAO,EAAE,QAAQ;IACjB,iBAAO;MACL,SAAS,EAAE,IAAI;IAEjB,uBAAa;MACX,SAAS,EAAE,IAAI",
-"sources": ["../scss/style768.scss"],
-"names": [],
-"file": "style768.css"
-}
